@@ -1,4 +1,6 @@
-Atenção! Este repo é um fork para alterar a descrição e adicionar github pages. <a href="https://github.com/LeonNasc/ipeteqsJS">Acesse o original aqui</a> 
+Atenção! Este repo é um fork para alterar a descrição, bem como servir de backup. <a href="https://github.com/LeonNasc/ipeteqsJS">Acesse o original aqui</a>, aproveitem e dêem um star lá ;) 
+
+Caso queira, <a href="https://leonnasc.github.io/ipeteqsJS/">o github pages original se encontra aqui</a>
 
 ipeteqs
 =======
